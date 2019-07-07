@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/11174298/79afaeed-60cd-4c62-8ea9-b36c0ad684d8/c6d42961-39f5-460c-a9a5-3835f51b50a9/_apis/work/boardbadge/3368bcc7-6c2f-4a71-8d63-6757c22c4a21)](https://dev.azure.com/11174298/79afaeed-60cd-4c62-8ea9-b36c0ad684d8/_boards/board/t/c6d42961-39f5-460c-a9a5-3835f51b50a9/Microsoft.RequirementCategory)
 # HoangAn-University
